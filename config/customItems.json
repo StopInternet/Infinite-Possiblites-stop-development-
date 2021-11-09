@@ -1,0 +1,247 @@
+{"data":
+    [
+            {
+                "name": "siliconball"
+            },
+            {
+                "name": "plasticine"
+            },
+            {
+                "name": "mixedplasticine"
+            },
+            {
+                "name": "plasticrystal",
+                "rarity": "rare"
+            },
+            {
+                "name": "zivi1",
+                "rarity": "common"
+            },
+            {
+                "name": "zivi2",
+                "rarity": "common"
+            },
+            {
+                "name": "zivi3",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "zivi4",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "zivi5",
+                "rarity": "uncommon"
+            },
+            {
+                "name": "zivi6",
+                "rarity": "rare"
+            },
+            {
+                "name": "zivi7",
+                "rarity": "rare"
+            },
+            {
+                "name": "zivi8",
+                "rarity": "rare"
+            },
+            {
+                "name": "zivi9",
+                "rarity": "epic"
+            },
+            {
+                "name": "zivi10",
+                "rarity": "epic"
+            },
+			{
+                "name": "arlemiteDust"
+            },
+			{
+                "name": "realmiteDust"
+            },
+			{
+                "name": "rupeeDust"
+            },
+			{
+                "name": "netheriteDust"
+            },
+			{
+                "name": "corruptedDraconiumIngot"
+            },
+			{
+                "name": "deathCore"
+            },
+			{
+                "name": "corruptedCore"
+            },
+			{
+                "name": "demonicGem"
+            },
+			{
+                "name": "compressedCapacitor"
+            },
+			{
+                "name": "megaCompressedCapacitor"
+            },
+			{
+                "name": "ultraCompressedCapacitor"
+            },
+			{
+                "name": "lambCrystal"
+            },
+			{
+                "name": "necromanticShard",
+                "enchanted": true
+            },
+			{
+				"name": "zzacharCrystal",
+				"rarity": "common"
+			},
+			{
+				"name": "moltenZzacharium",
+				"rarity": "common"
+			},
+			{
+				"name": "platelessMoltenZzacharium",
+				"rarity": "common"
+			},
+			{
+				"name": "zzacharium",
+				"rarity": "uncommon"
+			},
+			{
+				"name": "compressedZzacharium",
+				"rarity": "uncommon"
+			},
+			{
+				"name": "zzachariumChain",
+				"rarity": "rare"
+			},
+			{
+				"name": "poppetImbuer",
+				"rarity": "epic"
+			},
+			{
+				"name": "ichorBulb",
+				"rarity": "epic"
+			},
+                        {
+                "name": "temperioessence",           
+                "maxStackSize": 64,
+                "burnTime": 0,
+			    "rarity": "epic"
+            },
+			{
+                "name": "infinity_star",           
+                "maxStackSize": 64,
+                "burnTime": 0,
+				"rarity": "epic",
+				"enchanted": true
+            },
+			{
+                "name": "demonsteel1",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel2",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel3",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel4",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel5",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel6",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel7",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel8",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel9",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel10",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel11",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+				"name": "nether_star_essence",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+			{
+                "name": "chaosingot",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+				"name": "chaoscatalyst",
+				"maxStackSize": 64,
+				"burnTime": 0
+			},
+			{
+				"name": "electrotine_essence",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+						{
+				"name": "thorium_rod",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+						{
+				"name": "uranium_rod",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+                       {
+				"name": "aeonsteel",			
+				"oreDictNames": ["ingotAeonSteel"],
+				"maxStackSize": "64",
+				"rarity": "COSMIC",
+                "enchanted": "true"
+		},
+		{
+				"name": "chaosichor",			
+				"maxStackSize": "64",
+				"rarity": "COSMIC",
+                "enchanted": "true"
+		},
+                               {
+				"name": "itemWandCapAlchemical",			
+				"maxStackSize": "1",
+				"rarity": "COSMIC",
+                "enchanted": "true"
+		}
+
+    ]
+}
